@@ -1,3 +1,3 @@
 # git-tut
-This is git tutorial. 
+This is git tutorial. <br>
 By-Suraj Reddy
